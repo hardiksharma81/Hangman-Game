@@ -1,9 +1,9 @@
 # Hangman-Game
-INTRODUCTION
+# INTRODUCTION
 It is a python-based word-oriented game in which a player tries to guess one letter at a time which will form a word which will be related with the hint provided in it. For any wrong attempt an animated man will be created which seems to be getting hanged and it gets complete after all the wrong guesses. On the other hand, a correct guess of letters it will automatically gets placed on its own place and as the player guesses all letters correctly he will be declared as winner.
 This project has one player and two player options. In one player the player will be provided with letters which are already stored in the database and in two player one player will provide his own word along with a hint and the other one has to guess it.
 
-SYSTEM IMPLEMENTATION 
+# SYSTEM IMPLEMENTATION 
 •	Modules
 it consists of 5 modules and each module is interrelated with another one and they compiles the complete system.
 
